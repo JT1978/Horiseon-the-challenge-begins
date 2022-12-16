@@ -24,7 +24,9 @@ Title elements contain a concise, descriptive title
 
 ## Credits
 
-Collab with Alexsandra Batrak who helped me troubleshoot an issue was having with Index.html finally sorted Thank You
+Collab with Alexandra Batrak who helped me troubleshoot an issue was having with Index.html finally sorted Thank You
+
+https://github.com/alexandrabatrak
 
 ## License
 
