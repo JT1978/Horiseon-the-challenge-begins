@@ -22,6 +22,8 @@ Title elements contain a concise, descriptive title
 ## Screenshot of the Job
 ![website live](/assets/images/Screenshot.png)
 
+Link to deployed webpage: 
+https://jt1978.github.io/Horiseon-the-challenge-begins/
 ## Credits
 
 Collab with Alexandra Batrak who helped me troubleshoot an issue was having with Index.html finally sorted Thank You
